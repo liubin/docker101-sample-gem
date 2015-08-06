@@ -1,6 +1,6 @@
 # Aug6
 
-TODO: Write a gem description
+Gem测试程序，Aug6表示今天的日子。
 
 ## Installation
 
@@ -20,11 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+没啥用处。
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/aug6/fork )
+1. Fork it ( https://github.com/liubin/docker101-sample-gem/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
