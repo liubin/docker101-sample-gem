@@ -17,4 +17,8 @@ RUN cd /tmp \
 
 # skip installing gem documentation
 RUN echo 'gem: --no-rdoc --no-ri' >> "$HOME/.gemrc"
+
+RUN gem sources --remove https://rubygems.org/
+RUN gem sources -a http://ruby.taobao.org/
+
 RUN gem install respec ci_reporter_rspec
